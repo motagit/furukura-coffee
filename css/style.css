@@ -128,10 +128,24 @@ body {
     font-size: 48px;
     color: white;
     font-weight: 800;
+    margin: 100px 0 0 50%;
 }
 
 .contact p {
     font-size: 24px;
     color: white;
     font-weight: 600;
+    margin: 30px 0 100px 50%;
+    padding-left: 5px;
+}
+
+/* .contact img {
+} */
+
+.contact form {
+    margin: 115px 50% 100px 0;
+}
+
+.form-control {
+    border-radius: 10px !important;
 }
