@@ -149,3 +149,41 @@ body {
 .form-control {
     border-radius: 10px !important;
 }
+
+/* Footer */
+.footer {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.contact-adress li a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #120800 !important;
+    font-weight: 600;
+}
+
+.contact-adress li a:hover {
+    color: #582800 !important;
+}
+
+.social ul {
+    display: flex;
+}
+
+.social ul li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.social h4 {
+    margin-left: 70px;
+    margin-bottom: 10px;
+    font-weight: 800;
+    color: #120800;
+}
+
+.brown-line {
+    background-color: #120800; 
+    height: 40px;
+}
