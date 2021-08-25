@@ -2,5 +2,5 @@
 
 ![alt text](/design/logo/logor.png)
 
-webdesign project made by a student <br>
+webdesign project<br>
 studying flexbox, bootstrap and php
